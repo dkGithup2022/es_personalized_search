@@ -1,0 +1,6 @@
+.idea/
+out/
+run_es_docker.sh
+settings.gradle
+src/
+
